@@ -1,0 +1,7 @@
+#Sun May 21 13:28:27 WIB 2017
+base.0=/home/aska/AndroidStudioProjects/ExampleLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e04d255b38cd92cbd4468bda4550c25563cee763
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/aska/AndroidStudioProjects/ExampleLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f6ce9c45c796c546814ce85dc790f81a7e8c452/classes.dex
+base.1=/home/aska/AndroidStudioProjects/ExampleLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5f6ce9c45c796c546814ce85dc790f81a7e8c452
+file.0=/home/aska/AndroidStudioProjects/ExampleLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e04d255b38cd92cbd4468bda4550c25563cee763/classes.dex
